@@ -1,2 +1,5 @@
 #!/bin/sh
-npm run dev
+npm install
+cd client
+npm install
+cd ..
